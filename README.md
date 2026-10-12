@@ -1,5 +1,5 @@
 # sms--spam---detector
-a machine learning project that classifies SMS messages
+A machine learning project that classifies SMS messages
 as spam or ham (normal messages ).
 ## Features 
 - predicts whether an sms is spam or ham.
